@@ -40,10 +40,25 @@ How tokens gain value
 
 Nft erc 721 
 Ipfs(json like with details about an nft)……
+
+## sites to check out
 pinata
 Open sea
+snowtrace
+
 
 Thinking out loud
 "Nfts for birth certificates of animals or people… could work. Also what if you like created nets for apartments on a tower and ownership would be linked to possession of an nft."
 
+## Creating ERC721 NFT
+worked with erc 721 nft built from scratch for better understanding ... instead of using open zepppelin.
+
+project was created with forge and all the methods written.
+
+### compiled with
+```bash
+forge create --broadcast --private-key --URI src/Nft.sol
+```
+
+created a metadata json file to add to the ipfs file
 
