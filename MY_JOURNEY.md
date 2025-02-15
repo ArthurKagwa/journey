@@ -62,3 +62,16 @@ forge create --broadcast --private-key --URI src/Nft.sol
 
 created a metadata json file to add to the ipfs file
 
+# ERC721 NFT collections (valentines day)
+created a collection of nfts for valentines day. 
+
+```bash
+forge init
+```
+usind ipfs to store the metadata of the nfts
+string metadata in ipfs folder
+and auto incrementing the token id
+
+
+
+
